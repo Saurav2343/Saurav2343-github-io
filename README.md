@@ -18,13 +18,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/99af8d79-acee-4f8f-afdd-da6db9ff28a5" alt="Microsoft SQL Server" width="40" height="40";/> 
+        <img src="https://github.com/user-attachments/assets/c27d6cdf-9946-412b-af19-c870cc136d4c" alt="Microsoft SQL Server" width="40" height="40";/> 
     </a>
     <a href="www.python.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/user-attachments/assets/a5d83d94-3419-44b1-bfa4-e562bafa4434" alt="Python" width="40" height="40"/> 
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/99af8d79-acee-4f8f-afdd-da6db9ff28a5" alt="MySQL" width="40" height="40"/> 
     </a>
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
