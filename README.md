@@ -27,7 +27,7 @@
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github.com/Saurav2343" alt="Saurav2343" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav2343&" alt="Saurav2343" /></p>
