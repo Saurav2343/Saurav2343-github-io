@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Data Analyst: Unraveling Insights</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhagithub&label=Profile%20views&color=0e75b6&style=flat" alt="Saurav2343" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurav2343&label=Profile%20views&color=0e75b6&style=flat" alt="Saurav2343" /> </p>
 
 - 🌱 My goto tools **Python, Power BI, Excel, SQL**
 
