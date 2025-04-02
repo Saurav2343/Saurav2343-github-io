@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">Passionate Data Analyst: Unraveling Insights</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
-<a herf = "https://github.com/Saurav2343" target="GitHub"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurav2343&label=Profile%20views&color=0e75b6&style=flat" alt="Saurav2343" /> </p>
-</a>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Saurav2343&label=Profile%20views&color=0e75b6&style=flat" alt="Saurav2343" /> 
+</p>
 - 🌱 My goto tools include **Python, Power BI, Excel, SQL**
 
 - 📫 How to reach me **saurav.kmr02@gmail.com**
@@ -14,6 +14,9 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/saurav-kumar-995494107" target="blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+    </a>
+     <a herf = "https://github.com/Saurav2343" target="GitHub">
+        <img align="center" src="https://github.com" alt="GitHub" width="40" height="40" />
     </a>
    </p>
 <h3 align="left">Languages and Tools:</h3>
