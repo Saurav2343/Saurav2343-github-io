@@ -18,7 +18,7 @@
     <a herf ="https://www.github.com/Saurav2343" target="blank">
         <img align="center" src="https://github.com/user-attachments/assets/fc01fc8e-a231-4900-9294-681001e7b463" alt="GitHub" width="40" height="40" />
     </a>
-   </p>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
