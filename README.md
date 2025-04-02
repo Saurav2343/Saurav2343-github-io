@@ -17,7 +17,7 @@
         <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
     </a>
     <a href="https://github.com/Saurav2343" target="blank">
-        <img align="center" src="https://github.com/user-attachments/assets/fc01fc8e-a231-4900-9294-681001e7b463" alt="GitHub" width="40" height="40" style="border-radius: 50%;" />
+        <img align="center" src="https://github.com/user-attachments/assets/6a579346-9819-465c-b6c6-5826a5ed0922" alt="GitHub" width="40" height="40" style="border-radius: 50%;" />
     </a>
 </p>
 
