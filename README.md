@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/saurav-kumar-995494107" target="blank">
+    <a href="https://www.linkedin.com/in/saurav-kumar-995494107" target="blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
    </p>
 
