@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **saurav.kmr02@gmail.com**
 
-- ⚡ Fun fact **From volts[Electrical Engg] to values, I switched from IR2 to IR4!**
+- ⚡ Fun fact **From volts[Electrical Engg] to values[Data Analysis], I switched from IR2 to IR4!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
