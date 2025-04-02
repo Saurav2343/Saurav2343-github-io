@@ -18,10 +18,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="background-color:red" alt="Microsoft SQL Server" width="40" height="40";/> 
+        <img src="https://github.com/user-attachments/assets/99af8d79-acee-4f8f-afdd-da6db9ff28a5" alt="Microsoft SQL Server" width="40" height="40";/> 
     </a>
     <a href="www.python.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/cb748f4d-9236-4f4a-b22a-e7dc397ff516" alt="Python" width="60" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/a5d83d94-3419-44b1-bfa4-e562bafa4434" alt="Python" width="40" height="40"/> 
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
