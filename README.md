@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/c27d6cdf-9946-412b-af19-c870cc136d4c" alt="Microsoft SQL Server" width="40" height="40";/> 
+        <img src="https://github.com/user-attachments/assets/c27d6cdf-9946-412b-af19-c870cc136d4c" alt="Microsoft SQL Server" border-radius: 50% width="40" height="40";/> 
     </a>
     <a href="www.python.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/user-attachments/assets/a5d83d94-3419-44b1-bfa4-e562bafa4434" alt="Python" width="40" height="40"/> 
