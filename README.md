@@ -27,8 +27,12 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/user-attachments/assets/99af8d79-acee-4f8f-afdd-da6db9ff28a5" alt="MySQL" width="40" height="40"/> 
     </a>
-    <img src="https://github.com/user-attachments/assets/4f5d37db-85e0-4456-8e11-8206ae34a9f8" alt="Microsoft Excel" width="40" height="40"/>
-    <img src="https://github.com/user-attachments/assets/d4835e25-406f-49d7-bbb2-ed08d19324c9" alt="Power BI" width="40" height="40"/>
+    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+         <img src="https://github.com/user-attachments/assets/4f5d37db-85e0-4456-8e11-8206ae34a9f8" alt="Microsoft Excel" width="40" height="40"/> 
+    </a>
+    <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
+       <img src="https://github.com/user-attachments/assets/d4835e25-406f-49d7-bbb2-ed08d19324c9" alt="Power BI" width="40" height="40"/>
+    </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurav2343&show_icons=true&locale=en" alt="Saurav2343" /></p>
 
