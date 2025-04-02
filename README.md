@@ -5,7 +5,6 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Saurav2343&label=Profile%20views&color=0e75b6&style=flat" alt="Saurav2343" />
 </p>
-
 - 🌱 My go-to tools include **Python, Power BI, Excel, SQL**
 
 - 📫 How to reach me: **saurav.kmr02@gmail.com**
