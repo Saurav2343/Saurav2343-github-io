@@ -31,4 +31,4 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurav2343&show_icons=true&locale=en" alt="Saurav2343" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=Saurav2343&" alt="Saurav2343" /></p>
+/*<p><img align="center" src="https://streak-stats.demolab.com/?user=Saurav2343&" alt="Saurav2343" /></p>*/
