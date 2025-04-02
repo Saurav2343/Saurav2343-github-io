@@ -16,7 +16,7 @@
         <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
     </a>
      <a herf = "https://github.com/Saurav2343" target="GitHub">
-        <img align="center" src="https://github.com/user-attachments/assets/68b847ae-1391-4878-beea-6c84b7fa8cec" alt="GitHub" width="40" height="40" />
+        <img align="center" src="https://github.com/user-attachments/assets/df882f95-9080-4a12-9171-287f175db10e" alt="GitHub" width="40" height="40" />
     </a>
    </p>
 <h3 align="left">Languages and Tools:</h3>
